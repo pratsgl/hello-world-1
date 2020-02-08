@@ -11,4 +11,4 @@
 
 <h3>Apple MacBook Pro (16GB RAM, 512GB Storage, 2.3GHz Intel Core i9)Price:  Rs 2,25,000.00 <INPUT type="button" value="Buy Now" /> </h3> 
 <h5> M.R.P.: Rs 2,50,000.00 </h5>
-<h5> You Save: Rs 25,100.00 (10%) </h5>
+<h5> You Save: Rs 25,000.00 (10%) </h5>
