@@ -1,8 +1,8 @@
 <h1> Welcome to e-Shopping cart </h1>
 <hr/>
-<h3>Ipad Pro Price: Rs 90000.00 <INPUT type="button" value="Buy Now"/> </h3>
+<h3>Ipad Pro Price: Rs 50000.00 <INPUT type="button" value="Buy Now"/> </h3>
 <h5> M.R.P.: Rs 1,00,000.00 </h5>
-<h5> You Save: Rs 10,000.00 (10%) </h5
+<h5> You Save: Rs 50,000.00 (50%) </h5
 <hr/>
 <h3>Apple Watch Series 5 Price: Rs 45,000.00 <INPUT type="button"  value="Buy Now" /> </h3> 
 <h5> M.R.P.: Rs 50,000.00 </h5>
